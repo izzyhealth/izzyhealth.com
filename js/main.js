@@ -121,3 +121,9 @@
 
 })(jQuery);
 
+function link_izzyai(){
+  window.open('https://izzyai.com/','_blank');
+}
+function link_izzyhealth(){
+  window.open('index.html', '_self');
+}
