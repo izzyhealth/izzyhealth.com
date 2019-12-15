@@ -398,6 +398,7 @@ padding: 0;
 }
 
 .mobile-nav-toggle {
+  display: none;
   position: fixed;
   right: 0;
   top: 0;
